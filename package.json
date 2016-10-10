@@ -6,6 +6,9 @@
   "scripts": {
     "test": "./node_modules/karma/bin/karma start karma.conf.js"
   },
+  "dependencies": {
+    "o-utils": "git+ssh://git@github.com:lemonde/o-utils.git#MAN-504/chore/install"
+  },
   "devDependencies": {
     "babel-loader": "^5.3.2",
     "babel-runtime": "5.8.25",
