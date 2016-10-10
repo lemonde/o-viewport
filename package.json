@@ -1,4 +1,7 @@
 {
+  "name": "o-viewport",
+  "version": "v3.0.2",
+  "main": "main.js",
   "private": true,
   "scripts": {
     "test": "./node_modules/karma/bin/karma start karma.conf.js"
