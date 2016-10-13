@@ -7,7 +7,7 @@
     "test": "./node_modules/karma/bin/karma start karma.conf.js"
   },
   "dependencies": {
-    "o-utils": "git+ssh://git@github.com:lemonde/o-utils.git"
+    "o-utils": "https://github.com/lemonde/o-utils.git"
   },
   "devDependencies": {
     "babel-loader": "^5.3.2",
